@@ -1,0 +1,13 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+    background-color: gray;
+    margin: 10px;
+    display: none;
+}
+
+.active {
+    /*display: block;*/
+    background: yellow;
+}
