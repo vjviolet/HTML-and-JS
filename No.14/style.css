@@ -1,0 +1,9 @@
+body {
+    background-color: burlywood;
+}
+
+#div {
+    width: 500px;
+    font: 50px;
+    margin: auto;
+}
