@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+    margin:0;
+    padding: 0;
+}
+#div1 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 0;
+    filter: alpha(opacity=30);
+    opacity: 0.3;
+}
